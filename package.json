@@ -5,7 +5,7 @@
 "main": "./lib/index.js",
 "repository": {
 "type": "git",
-"url": "https://github.com/aritnath1990/test-npm"
+"url": "https://github.com/aritnath1990/test-npm.git"
 },
 "keywords": [
 "test-npm"
