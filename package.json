@@ -1,17 +1,17 @@
 {
-"name": "nodecalc",
+"name": "test-npm",
 "version": "0.0.1",
 "description": "This package will return addition of two numbers",
 "main": "./lib/index.js",
 "repository": {
 "type": "git",
-"url": "https://github.com/codeforgeek/nodecalc"
+"url": "https://github.com/aritnath1990/test-npm"
 },
 "keywords": [
-"sweet-lstat"
+"test-npm"
 ],
 "author": {
-"name": "Shahid Shaikh"
+"name": "subhojit sinha"
 },
 "readme": "# Add two numbers (for learning purpose)\n\nDemo module for codeforgeek.com tutorial\n\n## Install\n\n npm install nodecalc\n\n\n## API\n\n### -calc(a,b,p) \n where, \n a=number,\nb=number,p=operator",
 "readmeFilename": "README.md",
@@ -22,11 +22,11 @@
 "node": "*"
 },
 "bugs": {
-"url": "https://github.com/codeforgeek/nodecalc/issues"
+"url": "https://github.com/aritnath1990/test-npm/issues"
 },
-"homepage": "https://github.com/codeforgeek/nodecalc",
-"_id": "nodecalc@0.0.1",
+"homepage": "https://github.com/aritnath1990/test-npm",
+"_id": "test-npm@0.0.1",
 "scripts": {},
 "_shasum": "db9a913c2f8893d477472647917493f2c0949adb",
-"_from": "nodecalc@"
+"_from": "test-npm@"
 }
